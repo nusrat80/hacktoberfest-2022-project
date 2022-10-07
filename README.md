@@ -1,2 +1,2 @@
 # hacktoberfest-2022-project
-hacktoberfest project
+hacktoberfest project for beginner
